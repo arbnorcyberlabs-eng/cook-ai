@@ -1,0 +1,7 @@
+{
+  "description": "An app that generates recipes based on the ingredients you have available, either by text or by taking a picture.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "App"
+}
